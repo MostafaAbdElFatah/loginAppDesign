@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">loginApp</string>
+    <string name="textapp">Hello in chatter</string>
+</resources>
